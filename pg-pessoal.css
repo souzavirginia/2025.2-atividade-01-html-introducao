@@ -33,6 +33,20 @@ h3 {
     font-size: 24px;
     color: #34495e;
     text-align: left;
-    
+
 }
 
+p {
+     font-size: 14px;
+     color: #444444;
+     text-align: justify;
+}
+
+div {
+    text-align: left;
+}
+
+span {
+    color: #0066cc;
+    font-size: 14px;
+}
