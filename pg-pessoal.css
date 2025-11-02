@@ -6,15 +6,14 @@
 }
 
 body {
-
     font-size: 16px;
     color: #333333;
     text-align: left;
+    font-family: sans-serif
 
 }
 
 h1 {
-
     font-size: 36px;
     color: #1a1a1a;
     text-align: center;
@@ -22,41 +21,49 @@ h1 {
 }
 
 h2 {
-
     font-size: 28px;
     color: #2c3e50;
     text-align: center;
     margin-top: 20px;
-
 }
 
 h3 {
-
     font-size: 24px;
     color: #34495e;
     text-align: left;
     margin-top: 20px;
-
 }
 
 p { 
-
      font-size: 15px;
      color: #444444;
      text-align: justify;
-
 }
 
 div {
-
     text-align: left;
-
 }
 
 span {
-
     color: #0066cc;
-    font-size: 15px;
-    
+    font-size: 15px;  
 }
 
+.destaque {
+    color: #e74c3c;
+    font-size: 16px;
+}
+
+.secao {
+    text-align: center;
+}
+
+.link-social {
+    color: #16a085;
+    font-size: 15px;
+}
+
+.tecnologia {
+    color: #8e44ad;
+    font-size: 14px;
+}
